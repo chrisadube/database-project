@@ -1,2 +1,2 @@
 # database-project
-Database project for course COSC578.
+Database project for course COSC578 (Databases).
