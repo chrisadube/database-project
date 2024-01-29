@@ -1,0 +1,3 @@
+host=173.69.188.108
+port=3306
+name=mytestdb
